@@ -36,7 +36,7 @@ En esta fase, exploré diversos aspectos de los datos para obtener información 
 
 1. **Distribución de Vuelos Reservados por Mes:** 📅 Analicé cómo varía el número de vuelos reservados a lo largo del año para identificar patrones estacionales o tendencias.
 
-2. **Relación entre Distancia y Puntos Acumulados:** 🌍 Investigé si existe alguna correlación entre la distancia de los vuelos y los puntos acumulados por los clientes.
+2. **Relación entre Distancia y Puntos Acumulados:** 🌍 Investigué si existe alguna correlación entre la distancia de los vuelos y los puntos acumulados por los clientes.
 
 3. **Distribución de Clientes por Provincia:** 🗺️ Observé la cantidad de clientes en diferentes provincias para identificar áreas con mayor o menor presencia.
 
