@@ -75,5 +75,4 @@ Esto sugiere que, aunque el nivel educativo puede influir en la distribución de
 
 ¡Gracias por revisar el README del proyecto! Si tienes alguna pregunta o necesitas más información, no dudes en contactarme. 😊
 
-Nota: La evaluación y análisis de los datos fueron realizados de manera individual por mí. 💪
 
